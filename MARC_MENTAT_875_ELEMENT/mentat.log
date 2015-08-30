@@ -1,0 +1,61 @@
+Marc Mentat (C)Copyright 1994-2014, MSC.Software Corporation, all rights reserved
+File is Mentat, version unknown.
+Model file h:\cst\marc_mentat_875_element\project_job1.t16.mud opened for reading.
+Model h:\cst\marc_mentat_875_element\project_job1.t16 opened.
+Command > *post_open H:\CST\MARC_MENTAT_875_ELEMENT\project_job1.t16
+Number of increments detected : 2
+Command > *fill_view
+Command > *post_symbols
+Command > *post_contour_centroid
+Command > *set_deformed both
+Command > *set_deformed on
+Command > *set_deformed both
+Command > *set_deformed both
+Command > *set_deformed both
+Command > *set_nodes off
+Command > *set_points off
+Command > *set_curves off
+Command > *set_surfaces off
+Command > *set_solids off
+Command > *set_cavities off
+Command > *set_matchs off
+Command > *set_applys off
+Command > *set_iconds on
+Command > *set_rbe2s off
+Command > *set_links off
+Command > *set_iconds off
+Command > *set_rbe3s off
+Command > *set_orients off
+Command > *set_orients on
+Command > *set_loadcases on
+Command > *set_discdofs off
+Command > *set_rbe3s on
+Command > *set_rrods off
+Command > *set_rbe3s off
+Command > *set_orients off
+Command > *set_loadcases off
+Command > *regenerate
+Command > *elements_wireframe
+Command > *regenerate
+Command > *elements_solid
+Command > *regenerate
+Command > *colormap 2
+Command > *contourmap 2
+Command > *contourmap 2
+Command > *contourmap 3
+Command > *colormap 2
+Command > *colormap 3
+Command > *colormap 2
+Command > *colormap 4
+Command > *colormap 3
+Command > *colormap 2
+Command > *post_contour_centroid
+Command > *contourmap 2
+Command > *contourmap 3
+Command > *contourmap 3
+Command > *contourmap 2
+Command > *post_value Equivalent Von Mises Stress
+Enter post variable : *dynamic_model_on
+Enter post variable : *set_deformed on
+Command > *set_deformed both
+Command > *quit yes

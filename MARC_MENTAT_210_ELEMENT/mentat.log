@@ -1,0 +1,251 @@
+Marc Mentat (C)Copyright 1994-2014, MSC.Software Corporation, all rights reserved
+File is Mentat, version unknown.
+Model file h:\cst\marc_mentat_210_element\model2.mud opened for reading.
+Model h:\cst\marc_mentat_210_element\model2 opened.
+Command > *fill_view
+Command > *post_open H:\CST\MARC_MENTAT_210_ELEMENT\model2_job1.t16
+Number of increments detected : 2
+Command > *post_contour_centroid
+Command > *colormap 4
+Command > *colormap 3
+Command > *colormap 2
+Command > *colormap 1
+Command > *colormap 3
+Command > *colormap 2
+Command > *contourmap 2
+Command > *contourmap 2
+Command > *contourmap 1
+Command > *contourmap 2
+Command > *contourmap 3
+Command > *contourmap 2
+Command > *contourmap 6
+Command > *contourmap 7
+Command > *contourmap 4
+Command > *contourmap 3
+Command > *contourmap 2
+Command > *colormap 4
+Command > *colormap 5
+Command > *colormap 2
+Command > *colormap 3
+Command > *colormap 2
+Command > *colormap 1
+Command > *colormap 3
+Command > *colormap 4
+Command > *colormap 4
+Command > *colormap 5
+Command > *colormap 6
+Command > *colormap 6
+Command > *colormap 7
+Command > *colormap 8
+Command > *colormap 4
+Command > *colormap 2
+Command > *set_nodes off
+Command > *set_points off
+Command > *set_curves off
+Command > *set_surfaces off
+Command > *set_solids off
+Command > *set_cavities off
+Command > *set_matchs off
+Command > *set_applys off
+Command > *set_iconds on
+Command > *set_iconds off
+Command > *set_links off
+Command > *set_rbe2s off
+Command > *set_rbe3s off
+Command > *set_rrods off
+Command > *set_orients off
+Command > *set_discdofs off
+Command > *regenerate
+Command > *post_symbols
+Command > *post_numerics
+Command > *post_symbols
+Command > *post_contour_centroid
+Command > *post_off
+Command > *post_contour_centroid
+Command > *post_off
+Command > *set_face_labels on
+Command > *set_face_labels off
+Command > *set_element_labels on
+Command > *regenerate
+Command > *edges_outline *find_solid_outline
+Command > *regenerate
+Command > *regenerate
+Command > *edges_surface
+Command > *set_face_labels on
+Command > *regenerate
+Command > *elements_wireframe
+Command > *regenerate
+Command > *dynamic_model_on
+Command > *edges_full
+Command > *regenerate
+Command > *set_edges off
+Command > *regenerate
+Command > *set_edges on
+Command > *faces_full
+Command > *regenerate
+Command > *set_face_labels off
+Command > *regenerate
+Command > *set_element_size 70
+Command > *set_element_size 50
+Command > *regenerate
+Command > *set_element_size 100
+Command > *regenerate
+Command > *draw_legend off
+Command > *regenerate
+Command > *draw_legend on
+Command > *set_annotations off
+Command > *regenerate
+Command > *set_annotations on
+Command > *flowlines_off *draw
+Command > *regenerate
+Command > *flowlines_full *draw
+Command > *regenerate
+Command > *visible_elements
+Enter visible element list : *visible_elements
+Enter visible element list : *elements_solid
+Enter visible element list : *regenerate
+Enter visible element list : *translucent_elements
+Enter translucent element list : *translucent_elements
+Enter translucent element list : *dynamic_model_off
+Enter translucent element list :  71 72 74 75 76 77 78 79 191
+Enter translucent element list :  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+ 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55
+ 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 73 80 81 82 83 84 85 86 87 88 89
+ 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111
+ 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131
+ 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151
+ 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171
+ 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 192
+ 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210
+Enter translucent element list :  # | End of List
+Command > *solid_elements
+Enter opaque element list :  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+ 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55
+ 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81
+ 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105
+ 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+ 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145
+ 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165
+ 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185
+ 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205
+ 206 207 208 209 210
+Enter opaque element list :  # | End of List
+Command > *visible_elements
+Enter visible element list :  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+ 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55
+ 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81
+ 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105
+ 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+ 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145
+ 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165
+ 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185
+ 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205
+ 206 207 208 209 210
+Enter visible element list :  # | End of List
+Command > *postscript_color 1
+Command > *postscript_gray  2
+Command > *postscript_color 2
+Command > *xdump 1
+Click on the window you wish to print.
+Command > *full_window
+Command > *full_window_exit
+Command > *movie_animation_play
+Command > *elements_wireframe
+Command > *regenerate
+Command > *full_window
+Command > *full_window_exit
+Command > *set_nodes on
+Command > *set_node_labels on
+Command > *dynamic_model_on
+Command > *regenerate
+Command > *elements_wireframe
+Command > *surfaces_solid
+Command > *regenerate
+Command > *surfaces_wireframe
+Command > *solids_filled
+Command > *regenerate
+Command > *regenerate
+Command > *solids_wireframe
+Command > *elements_solid
+Command > *regenerate
+Command > *elements_wireframe
+Command > *regenerate
+Command > *find_solid_outline
+Command > *draw
+Command > *plot_reset
+Command > *plot_reset
+Command > *regenerate
+Command > *regenerate
+Command > *set_face_labels on
+Command > *regenerate
+Command > *edges_outline *find_solid_outline
+Command > *regenerate
+Command > *edges_surface
+Command > *regenerate
+Command > *edges_full
+Command > *regenerate
+Command > *set_edge_labels on
+Command > *regenerate
+Command > *set_edge_labels off
+Command > *regenerate
+Command > *set_element_labels on
+Command > *regenerate
+Command > *set_element_labels off
+Command > *regenerate
+Command > *edges_full
+Command > *set_edges off
+Command > *regenerate
+Command > *set_edges on
+Command > *regenerate
+Command > *set_element_labels on
+Command > *regenerate
+Command > *elements_solid
+Command > *regenerate
+Command > *set_edge_labels on
+Command > *regenerate
+Command > *set_edge_labels off
+Command > *set_element_labels off
+Command > *regenerate
+Command > *regenerate
+Command > *elements_wireframe
+Command > *set_element_labels on
+Command > *regenerate
+Command > *edges_surface
+Command > *regenerate
+Command > *set_face_labels off
+Command > *regenerate
+*regenerate
+Command > *regenerate
+Command > *set_nodes off
+Command > *set_nodes on
+Command > *set_elements off
+Command > *set_elements on
+Command > *set_points off
+Command > *set_curves off
+Command > *set_surfaces off
+Command > *set_solids off
+Command > *set_cavities off
+Command > *set_applys off
+Command > *set_iconds on
+Command > *set_applys on
+Command > *set_matchs off
+Command > *set_links off
+Command > *set_iconds off
+Command > *set_rbe2s off
+Command > *set_rbe3s off
+Command > *set_orients off
+Command > *set_loadcases on
+Command > *set_discdofs off
+Command > *set_loadcases off
+Command > *set_rbe3s on
+Command > *set_rrods off
+Command > *set_rbe3s off
+Command > *regenerate
+Command > *set_node_labels on
+Command > *regenerate
+Command > *full_window
+Command > *full_window_exit
+Command > *save_model
+Model file H:\CST\MARC_MENTAT_210_ELEMENT\model2_job1.t16.mud opened for writing.
+Model saved to H:\CST\MARC_MENTAT_210_ELEMENT\model2_job1.t16.
+Command > *quit yes

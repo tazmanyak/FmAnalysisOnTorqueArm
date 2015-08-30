@@ -1,0 +1,186 @@
+ Marc 2010.1.0 , Build  66784  Windows_NT version 
+-------------------------------- 
+                     :         
+Program name         : marc  
+Job ID               : H:\CST\MARC_MENTAT\project_job1   
+Version type         : i4  
+User subroutine name :   
+User objects/libs    :   
+Restart file job ID  :    
+Substructure file ID :    
+Post file job ID     :    
+Defaults file ID     :    
+View factor file ID  :    
+Save generated module: no 
+MPI library          : intel-mpi 
+Auto restart         : 0  
+Contact decoupling   : 0 
+DDM processes        : 0 
+Solver processes     : 0 
+Host file            :    
+Distributed i/o      :    
+Run directory        : H:\CST\MARC_MENTAT 
+Scratch directory    : H:\CST\MARC_MENTAT 
+Default bin directory: d:\MSC.Software\Marc\2010\marc2010\bin\win32 
+Material database    : d:\MSC.Software\Marc\2010\marc2010\AF_flowmat\    
+                     :            
+ 
+Sun 01/19/2014 
+09:59 AM
+ 
+  Marc 2010.1.0 project_job1 begins execution
+
+     (c) COPYRIGHT 2010 MSC.Software Corporation, all rights reserved                                                                                                
+
+
+ VERSION:  Marc 2010.1.0, Build 66784  build date: Tue Mar 30 12:14:08 2010                                                                                               
+
+
+
+     Date: Sun Jan 19 09:59:59 2014
+
+                               Marc 2010.1.0 execution begins
+
+
+             general memory initially set to =        25 MByte
+
+             maximum available memory set to =      2047 MByte
+
+ Date:          Sun Jan 19 10:00:01 2014
+ MSC Id:        2c27d7357324 (ethernet) (Intel)
+ Hostname:      metucc (user e175543, display metucc)
+ License files: 1700@msc.cc.metu.edu.tr
+ CEID:          099B6A6C-EC1787ED
+ User:          e175543
+ Display:       metucc
+ LAPI Version:  LAPI 8.0.1-1866 (FLEXlm 11.6.0.0)
+Acquired 1 license for Marc from license server on host msc.cc.metu.edu.tr
+
+   MSC Customer Entitlement ID
+        099B6A6C-EC1787ED
+
+             general memory increasing from      25 MByte to      53 MByte
+             wall time =           3.00
+
+             wall time =           3.00
+
+
+             start of assembly     cycle number is     0
+             wall time =           3.00
+
+
+
+             start of matrix solution
+             wall time =           4.00
+
+
+
+             singularity ratio    4.1225E-03
+
+
+             end of matrix solution
+             wall time =           5.00
+
+
+             total  memory =           89  MByte
+
+             e n d   o f   i n c r e m e n t       0
+             wall time =           5.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       1
+
+             start of assembly     cycle number is     0
+             wall time =           5.00
+
+
+
+             start of matrix solution
+             wall time =           5.00
+
+
+
+             singularity ratio    4.1225E-03
+
+
+             end of matrix solution
+             wall time =           5.00
+
+
+             maximum residual force  at node        81 degree of freedom  1 is equal to    2.728E-12
+             maximum reaction force  at node        18 degree of freedom  1 is equal to    8.645E+03
+             residual convergence ratio    3.156E-16
+
+             total  memory =           90  MByte
+
+             e n d   o f   i n c r e m e n t       1
+             wall time =           5.00
+
+Returned 1 license for Marc
+
+
+             memory usage:                       MByte       words  % of total
+
+              within general memory:           
+               element stiffness matrices:           0       28930         0.1
+               solver: first part                    0       25980         0.1
+               overallocation initial allocation    53    13945284        59.4
+               other:                                0        1737         0.0
+              allocated separately:
+               incremental backup:                   1      176887         0.8
+               solver 8                              8     1994368         8.5
+               nodal vectors:                        0       53552         0.2
+               defined sets:                         0         198         0.0
+               transformations:                      0        1104         0.0
+               kinematic boundary conditions:        0        1262         0.0
+               points, curves and surfaces:          0        1745         0.0
+               mem_none:                             0       37592         0.2
+               element storage:                      1      197818         0.8
+               material properties:                  0        1556         0.0
+               executable and common blocks:        27     7000000        29.8
+               miscellaneous                         0       15752         0.1
+               ---------------------------------------------------------------
+               total:                               90    23483765
+
+               general memory allocated:            53    14001931
+               general memory used:                  0       56647
+
+               peak memory usage:                  105    27555531
+
+
+             timing information:                       wall time      cpu time
+
+               total time for input:                        0.47          0.02
+               total time for stiffness assembly:           0.08          0.02
+               total time for stress recovery:              0.05          0.00
+               total time for matrix solution:              1.56          0.00
+               total time for output:                       0.13          0.02
+               total time for miscellaneous:                3.54          0.08
+               ---------------------------------------------------------------
+               total time:                                  5.82          0.12
+
+
+             **************************************************************************
+
+
+             
+             This is a successful completion to a Marc simulation,
+             indicating that no additional incremental data was
+             found and that the analysis is complete.
+             
+
+
+
+
+             **************************************************************************
+
+
+
+
+
+                                         Marc 2010.1.0
+
+                                        Exit number 3004
+
